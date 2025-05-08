@@ -1,5 +1,9 @@
 # dp-700-lab-07-Real-Time-Stock-Market-Analytics-with-Microsoft-Fabric
 
+https://github.com/user-attachments/assets/eb27a20e-1c1e-4b03-9757-56c57d98e007
+
+
+
 # Real-Time Stock Market Analytics with Microsoft Fabric
 
 This project demonstrates the use of **Real-Time Intelligence in Microsoft Fabric** to ingest, store, analyze, and visualize real-time stock market data.
